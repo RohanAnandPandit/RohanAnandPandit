@@ -1,7 +1,5 @@
 ### Hi there 👋, this is Rohan!
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with ...
