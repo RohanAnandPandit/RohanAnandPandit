@@ -1,4 +1,4 @@
-### Hi there 👋, this is Rohan!
+### Hi there 👋, this is Rohan
 
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on open-source projects
