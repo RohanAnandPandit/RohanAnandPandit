@@ -3,8 +3,10 @@
 <!-- 🌱 I’m currently learning --> 
 - 🧑‍💻 I’m interested in full stack development and AI
 - 📁 Ask me about my projects
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/rohananandpandit/">LinkedIn</a>
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/rohananandpandit)
 - 🤖 Fun fact: Python was my first programming language
-<!-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/metalynx/">Metalynx</a> -->
+- 🔭 I’m currently working on [Raptvise AI](https://raptvise.co.uk)
 
-
+![RohanAnandPandit's Stats](https://github-readme-stats.vercel.app/api?username=RohanAnandPandit&theme=dark&show_icons=true&hide_border=false&count_private=true)
+<!-- ![RohanAnandPandit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohanAnandPandit&theme=dark&hide_border=false) -->
+![RohanAnandPandit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAnandPandit&theme=dark&show_icons=true&hide_border=false&layout=compact)
